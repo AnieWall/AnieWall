@@ -11,14 +11,14 @@ Git-ID -> AnieWall
   * [x] [vms.md] [https://github.com/cloudmesh-ai-luc/AnieWall/blob/main/assignments/week3/vms.md]
 
 
-* [ ] Assignment W3.2: VM on Chameleon Cloud (Due Sep 17, 2026, 9am)
-  * [ ] Set your preferred time zone in Chameleon settings.
-  * [ ] Make sure you have a key in your `.ssh` dir on your laptop and upload the public key to Chameleon.
-  * [ ] Explore the portal and browse around to develop a plan first.
-  * [ ] Make a reservation not exceeding 1 hour.
-  * [ ] Start up a VM using a Chameleon Cloud image for Ubuntu 24.04 using the smallest image size possible.
-  * [ ] Document your activity with a screenshot of the terminal (800x600).
-  * [ ] [VM.MD](https://github.com/cloudmesh-ai-luc/YOURREPO/blob/main/assignments/week3/vm.md)
+* [x] Assignment W3.2: VM on Chameleon Cloud (Due Sep 17, 2026, 9am)
+  * [x] Set your preferred time zone in Chameleon settings.
+  * [x] Make sure you have a key in your `.ssh` dir on your laptop and upload the public key to Chameleon.
+  * [x] Explore the portal and browse around to develop a plan first.
+  * [x] Make a reservation not exceeding 1 hour.
+  * [x] Start up a VM using a Chameleon Cloud image for Ubuntu 24.04 using the smallest image size possible.
+  * [x] Document the activity with a screenshot of the terminal (800x600).
+  * [x] [vms.md](https://github.com/cloudmesh-ai-luc/AnieWall/blob/main/assignments/week3/vms.md)
 
 
 * [ ] Assignment W3.3: OPTIONAL: VM on public cloud (Due Sep 17, 2026, 9am)
