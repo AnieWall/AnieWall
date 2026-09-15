@@ -45,3 +45,42 @@ The output confirmed that the login user was `ubuntu`, the hostname was `swallac
 ### Resource Cleanup
 
 After successful verification and documentation, the Jetstream2 virtual machine was deleted and the temporary floating IP address was released. This ensured that cloud resources were not left allocated after completion of the exercise.
+
+
+## W3.2 - Chameleon Cloud Virtual Machine
+
+An Ubuntu 24.04 virtual machine was created on Chameleon Cloud using the KVM@TACC testbed.
+
+### Configuration
+
+| Item | Value |
+|---|---|
+| Platform | Chameleon Cloud KVM@TACC |
+| Project | CH-817419 |
+| Image | CC-Ubuntu24.04 |
+| Flavor | Reserved m1.small |
+| vCPUs | 1 |
+| RAM | 2 GB |
+| Disk | 20 GB |
+| VM name | swallace6-chameleon-vm |
+| SSH key | swallace6 |
+| Network | sharednet1 |
+| Security group | swallace6-ssh |
+
+A one-hour lease was created before launching the instance. A public floating IP address was associated with the VM, and an SSH security rule permitting TCP port 22 was attached through a dedicated security group.
+
+### Verification
+
+Inside the remote VM, the following commands were executed:
+
+```bash
+whoami
+hostname
+uname -a
+```
+
+The output confirmed that the login user was cc, the hostname was swallace6-chameleon-vm, and the system was running Linux on the x86_64 architecture.
+
+### Resource Cleanup
+
+After successful verification and documentation, the Chameleon Cloud virtual machine was removed. The temporary floating IP address, SSH security group, and one-hour lease were also released or expired. This confirmed that no temporary compute or network resources remained allocated after completion of the exercise.
