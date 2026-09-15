@@ -18,7 +18,7 @@ Git-ID -> AnieWall
   * [x] Make a reservation not exceeding 1 hour.
   * [x] Start up a VM using a Chameleon Cloud image for Ubuntu 24.04 using the smallest image size possible.
   * [x] Document the activity with a screenshot of the terminal (800x600).
-  * [x] [vms.md](https://github.com/cloudmesh-ai-luc/AnieWall/blob/main/assignments/week3/vms.md)
+  * [x] [vms.md][https://github.com/cloudmesh-ai-luc/AnieWall/blob/main/assignments/week3/vms.md]
 
 
 * [ ] Assignment W3.3: OPTIONAL: VM on public cloud (Due Sep 17, 2026, 9am)
