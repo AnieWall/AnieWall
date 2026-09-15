@@ -2,17 +2,13 @@ Git-ID -> AnieWall
 
 *  Accounts: [https://piazza.com/class/mt5rkdsycb31c3/post/12]
 
-Note:
-*  put files in `<repor>/assignments/week3/`
-*  Update all YOURREPO
-
 ## Week 3
 
-* [ ] Assignment W3.1: VM on Jetstream (Due Sep 17, 2026, 9am)
-  * [ ] Start a VM on Jetstream and follow the tutorial provided.
-  * [ ] Improve the tutorial while creating pull requests in the lecture notes if you see issues.
-  * [ ] Document your activity with a screenshot of the terminal (800x600).
-  * [ ] [VM.MD](https://github.com/cloudmesh-ai-luc/YOURREPO/blob/main/assignments/week3/vm.md)
+* [x] Assignment W3.1: VM on Jetstream (Due Sep 17, 2026, 9am)
+  * [x] Start a VM on Jetstream and follow the tutorial provided.
+  * [x] Reviewed the tutorial; no issues requiring a pull request were identified.
+  * [x] Document the activity with a screenshot of the terminal (800x600).
+  * [x] [vms.md] [https://github.com/cloudmesh-ai-luc/AnieWall/blob/main/assignments/week3/vms.md]
 
 
 * [ ] Assignment W3.2: VM on Chameleon Cloud (Due Sep 17, 2026, 9am)
