@@ -6,7 +6,7 @@
 **Course:** Cloud Computing, DevOps, and AI  
 **Instructor:** Gregor von Laszewski  
 **Date:** September 8, 2026  
-**Status:** Initial Proposal  
+**Status:** Revised Initial Proposal
 
 ---
 
