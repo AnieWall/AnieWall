@@ -6,7 +6,7 @@
 **Course:** Cloud Computing, DevOps, and AI  
 **Instructor:** Gregor von Laszewski  
 **Date:** September 8, 2026  
-**Status:** Initial Proposal  
+**Status:** Revised Initial Proposal
 
 ---
 
@@ -20,9 +20,9 @@
 
 Biometric technologies such as facial-recognition systems can process sensitive personal information. Before biometric information is collected or used, an application may need to determine whether valid consent exists, what purpose the consent covers, whether the consent is still active, and whether it has been revoked.
 
-My previous academic work explored the design of biometric consent mechanisms, including consent capture, verification, revocation, and auditability.
+Previous academic work explored the design of biometric consent mechanisms, including consent capture, verification, revocation, and auditability.
 
-For this Cloud Computing project, I want to investigate a different technical problem:
+This Cloud Computing project investigates a different technical problem:
 
 **How can a biometric-consent mechanism be deployed, secured, monitored, and operated as a cloud service?**
 
