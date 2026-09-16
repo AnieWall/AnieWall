@@ -33,10 +33,10 @@ Git-ID -> AnieWall
   * [x] [vms.md] [https://github.com/cloudmesh-ai-luc/AnieWall/blob/main/assignments/week3/vms.md]
      
 * [ ] Assignment W3.5: README.md (Due Sep 17, 2026, 9am)
-  * [ ] put your link here  [LINK]
+  * [ ] put your link here  [https://github.com/cloudmesh-ai-luc/AnieWall/blob/main/README.md]
      
  * [ ] Assignment W3.6 git from commandline
-   * [ ] put the url of a pull request here
+   * [x] The url of the pull request here: [https://github.com/cloudmesh-ai-luc/AnieWall/pull/2]
 
 ## Week 2
   
