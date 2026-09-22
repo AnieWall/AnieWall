@@ -8,14 +8,6 @@
 **Date:** September 8, 2026  
 **Status:** Revised Initial Proposal
 
----
-
-## Working Title
-
-**Cloud-Native Biometric Consent and Audit Platform**
-
----
-
 ## Project Description
 
 Biometric technologies such as facial-recognition systems can process sensitive personal information. Before biometric information is collected or used, an application may need to determine whether valid consent exists, what purpose the consent covers, whether the consent is still active, and whether it has been revoked.
