@@ -191,11 +191,11 @@ The prototype will use synthetic information rather than real biometric data.
 
 ---
 
-## Relationship to My Previous Biometric Project
+## Relationship to Previous Biometric Project
 
-This project is related to my previous research topic but has a different technical objective.
+This project is related to previous biometric research but has a different technical objective.
 
-My earlier biometric project concentrated primarily on questions such as:
+The earlier biometric project concentrated primarily on questions such as:
 
 - how biometric consent should be represented;
 - how consent should be captured;
@@ -254,7 +254,7 @@ This AI component is currently an optional extension and is not required for the
 
 ## Initial Goals
 
-At this stage, I expect the project to demonstrate that:
+At this stage, the project is expected to demonstrate that:
 
 1. a consent record can be created using synthetic data;
 2. a client can request consent verification;
@@ -292,7 +292,7 @@ These goals may be refined as the project develops.
 - Production use
 - Enterprise-scale deployment
 - Full compliance certification
-- Repeating the complete legal analysis from my previous project
+- Repeating the complete legal analysis from the previous biometric project
 
 ---
 
