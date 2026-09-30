@@ -92,7 +92,7 @@ Assignment W4.4 was also completed. The review covered Python virtual environmen
 
 * [x] Assignment W3.4: Compare (Due Sep 17, 2026, 9am)
   * [x] Compare your experience between starting a VM on your local machine vs using Chameleon Cloud.
-  * [x] Put all assignment answers into: [https://github.com/cloudmesh-ai-luc/AnieWall/tree/main/assignments/week3]
+  * [x] [All assignment answers](https://github.com/cloudmesh-ai-luc/AnieWall/tree/main/assignments/week3)
   * [x] [vms.md](https://github.com/cloudmesh-ai-luc/AnieWall/blob/main/assignments/week3/vms.md)
      
 * [x] Assignment W3.5: README.md (Due Sep 17, 2026, 9am)
