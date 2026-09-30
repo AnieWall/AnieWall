@@ -10,7 +10,7 @@ Git-ID -> AnieWall
     - [x] Write a Makefile with the necessary targets to manage a single VM.
     - [x] Configure and demonstrate management of multiple machines using the configurable `NAME` variable.
     - [x] Organize local and cloud Makefiles in separate directories.
-    - [x] [W4.1 Local VM Assignment] [https://github.com/cloudmesh-ai-luc/AnieWall/tree/main/assignments/week4/local]
+    - [x] [W4.1 Local VM Assignment](https://github.com/cloudmesh-ai-luc/AnieWall/tree/main/assignments/week4/local)
 
 - [x] Assignment W4.2: VM on Jetstream 2
 
@@ -19,7 +19,7 @@ Git-ID -> AnieWall
     - [x] Write a Makefile with the necessary targets to manage a Jetstream VM.
     - [x] Configure and demonstrate management of multiple Jetstream VMs using the same Makefile.
     - [x] Check the work into the repository.
-    - [x] [W4.2 Jetstream Assignment] [https://github.com/cloudmesh-ai-luc/AnieWall/tree/main/assignments/week4/jetstream]
+    - [x] [W4.2 Jetstream Assignment](https://github.com/cloudmesh-ai-luc/AnieWall/tree/main/assignments/week4/jetstream)
 
 - [x] Assignment W4.3: VM on Chameleon Cloud
 
@@ -30,7 +30,7 @@ Git-ID -> AnieWall
     - [x] Write a Makefile with the necessary targets to manage a Chameleon VM.
     - [x] Configure and demonstrate management of multiple Chameleon VMs using the same Makefile.
     - [x] Check the work into the repository.
-    - [x] [W4.3 Chameleon Cloud Assignment] [https://github.com/cloudmesh-ai-luc/AnieWall/tree/main/assignments/week4/chameleon]
+    - [x] [W4.3 Chameleon Cloud Assignment](https://github.com/cloudmesh-ai-luc/AnieWall/tree/main/assignments/week4/chameleon)
 
 - [x] Assignment W4.4: Review Python
 
@@ -51,7 +51,7 @@ Git-ID -> AnieWall
 
 ## Week 4 Self-Assessment
 
-Assignments W4.1 through W4.3 were completed and documented in separate directories for the local Multipass, Jetstream 2, and Chameleon Cloud environments.
+Assignments W4.1 through W4.4 were completed. W4.1 through W4.3 were documented in separate directories for the local Multipass, Jetstream 2, and Chameleon Cloud environments, while W4.4 completed the required Python environment and programming review.
 
 The local assignment demonstrated VM lifecycle automation with Multipass and a Makefile. The same Makefile was successfully used to manage more than one virtual machine by overriding the `NAME` variable.
 
@@ -63,7 +63,7 @@ The most significant challenges involved configuring the OpenStack environments 
 
 The Week 4 work strengthened understanding of Makefile automation, OpenStack CLI usage, cloud-specific VM configuration, virtual environments, and management of multiple virtual machines across local and cloud platforms.
 
-Assignment W4.4 tasks have been reviewed and noted. The virtual-environment, `pip`, and `pipx` portions have already been exercised during W4.2 and W4.3, while the remaining Python review topics have been completed separately.
+Assignment W4.4 was also completed. The review covered Python virtual environments, pip and pipx, imports, the __main__ block, functions, command-line arguments with click, and executing shell commands through os.system() and subprocess.run().
 
 ## Week 3
 
@@ -71,7 +71,7 @@ Assignment W4.4 tasks have been reviewed and noted. The virtual-environment, `pi
   * [x] Start a VM on Jetstream and follow the tutorial provided.
   * [x] Reviewed the tutorial; no issues requiring a pull request were identified.
   * [x] Document the activity with a screenshot of the terminal (800x600).
-  * [x] [vms.md] [https://github.com/cloudmesh-ai-luc/AnieWall/blob/main/assignments/week3/vms.md]
+  * [x] [vms.md](https://github.com/cloudmesh-ai-luc/AnieWall/blob/main/assignments/week3/vms.md)
 
 
 * [x] Assignment W3.2: VM on Chameleon Cloud (Due Sep 17, 2026, 9am)
@@ -81,7 +81,7 @@ Assignment W4.4 tasks have been reviewed and noted. The virtual-environment, `pi
   * [x] Make a reservation not exceeding 1 hour.
   * [x] Start up a VM using a Chameleon Cloud image for Ubuntu 24.04 using the smallest image size possible.
   * [x] Document the activity with a screenshot of the terminal (800x600).
-  * [x] [vms.md] [https://github.com/cloudmesh-ai-luc/AnieWall/blob/main/assignments/week3/vms.md] 
+  * [x] [vms.md](https://github.com/cloudmesh-ai-luc/AnieWall/blob/main/assignments/week3/vms.md)
 
 
 * [ ] Assignment W3.3: OPTIONAL: VM on public cloud (Due Sep 17, 2026, 9am)
@@ -93,7 +93,7 @@ Assignment W4.4 tasks have been reviewed and noted. The virtual-environment, `pi
 * [x] Assignment W3.4: Compare (Due Sep 17, 2026, 9am)
   * [x] Compare your experience between starting a VM on your local machine vs using Chameleon Cloud.
   * [x] Put all assignment answers into: [https://github.com/cloudmesh-ai-luc/AnieWall/tree/main/assignments/week3]
-  * [x] [vms.md] [https://github.com/cloudmesh-ai-luc/AnieWall/blob/main/assignments/week3/vms.md]
+  * [x] [vms.md](https://github.com/cloudmesh-ai-luc/AnieWall/blob/main/assignments/week3/vms.md)
      
 * [x] Assignment W3.5: README.md (Due Sep 17, 2026, 9am)
   * [x] LINK to README: [https://github.com/cloudmesh-ai-luc/AnieWall/blob/main/README.md]
@@ -112,7 +112,7 @@ Assignment W4.4 tasks have been reviewed and noted. The virtual-environment, `pi
 * [x] Assignment W2.2: GitHub Repository (Due Sep 10, 2026, 9am)
   * [x] Verify that you can write into a file in your assigned GitHub repository.
   * [x] Put something useful into the README such as your first and last name. [https://github.com/cloudmesh-ai-luc/AnieWall/blob/main/README.md]
-  * [x] Upload your public key. [Public SSH Key] [https://github.com/AnieWall.keys]
+  * [x] Upload your public key. [Public SSH Key](https://github.com/AnieWall.keys)
 
 
 * [x] Assignment W2.3: Backup Your Computer (Due Sep 10, 2026, 9am)
