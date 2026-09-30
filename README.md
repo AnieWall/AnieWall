@@ -1,6 +1,6 @@
 Git-ID -> AnieWall
 
-*  Accounts: [https://piazza.com/class/mt5rkdsycb31c3/post/12]
+*  Accounts: (https://piazza.com/class/mt5rkdsycb31c3/post/12) 
 
 ## Week 4 Tasks (Due Sep 24, 2026, 9am)
 
@@ -63,7 +63,7 @@ The most significant challenges involved configuring the OpenStack environments 
 
 The Week 4 work strengthened understanding of Makefile automation, OpenStack CLI usage, cloud-specific VM configuration, virtual environments, and management of multiple virtual machines across local and cloud platforms.
 
-Assignment W4.4 was also completed. The review covered Python virtual environments, pip and pipx, imports, the __main__ block, functions, command-line arguments with click, and executing shell commands through os.system() and subprocess.run().
+Assignment W4.4 was also completed. The review covered Python virtual environments, `pip` and `pipx`, imports, the `__main__` block, functions, command-line arguments with `click`, and executing shell commands through `os.system()` and `subprocess.run()`.
 
 ## Week 3
 
@@ -96,10 +96,10 @@ Assignment W4.4 was also completed. The review covered Python virtual environmen
   * [x] [vms.md](https://github.com/cloudmesh-ai-luc/AnieWall/blob/main/assignments/week3/vms.md)
      
 * [x] Assignment W3.5: README.md (Due Sep 17, 2026, 9am)
-  * [x] LINK to README: [https://github.com/cloudmesh-ai-luc/AnieWall/blob/main/README.md]
+  * [x] [LINK to README](https://github.com/cloudmesh-ai-luc/AnieWall/blob/main/README.md)
 
 * [x] Assignment W3.6 git from commandline
-  * [x] Pull request: [https://github.com/cloudmesh-ai-luc/AnieWall/pull/2]
+  * [x] [Pull request](https://github.com/cloudmesh-ai-luc/AnieWall/pull/2)
 
 ## Week 2
   
@@ -111,7 +111,7 @@ Assignment W4.4 was also completed. The review covered Python virtual environmen
 
 * [x] Assignment W2.2: GitHub Repository (Due Sep 10, 2026, 9am)
   * [x] Verify that you can write into a file in your assigned GitHub repository.
-  * [x] Put something useful into the README such as your first and last name. [https://github.com/cloudmesh-ai-luc/AnieWall/blob/main/README.md]
+  * [x] [Put something useful into the README such as your first and last name](https://github.com/cloudmesh-ai-luc/AnieWall/blob/main/README.md)
   * [x] Upload your public key. [Public SSH Key](https://github.com/AnieWall.keys)
 
 
@@ -121,7 +121,7 @@ Assignment W4.4 was also completed. The review covered Python virtual environmen
   * [x] Choose one backup method and outline the setup steps.
   * [x] Create a weekly backup schedule (day, time, what to back up).
   * [x] Research an example from cloud computing where a missing backup strategy led to issues and write a short incident case.
-  * [x] Backup Assignment [https://github.com/cloudmesh-ai-luc/AnieWall/blob/50a7978692ac9ef1374c88cd51ce5d513616db52/assignments/week2/backup.md]
+  * [x] [Backup Assignment](https://github.com/cloudmesh-ai-luc/AnieWall/blob/50a7978692ac9ef1374c88cd51ce5d513616db52/assignments/week2/backup.md)
 
 
 * [x] Assignment W2.4: Local VM (Due Sep 10, 2026, 9am)
@@ -130,12 +130,12 @@ Assignment W4.4 was also completed. The review covered Python virtual environmen
   * [x] Create and start a minimal VM (e.g., Ubuntu 22.04).
   * [x] Capture proof of login with a terminal screenshot (≤ 800×600 px) showing your prompt and a command.
   * [x] Write/update the tutorial in `assignments/week1/local-vm.md`
-        - (Local VM Tutorial) [https://github.com/cloudmesh-ai-luc/AnieWall/blob/50a7978692ac9ef1374c88cd51ce5d513616db52/assignments/week1/local-vm.md]
-  * [x] VM Login Screenshot. [https://github.com/cloudmesh-ai-luc/AnieWall/blob/50a7978692ac9ef1374c88cd51ce5d513616db52/assignments/week1/vm-login.png]
+        - [Local VM Tutorial](https://github.com/cloudmesh-ai-luc/AnieWall/blob/50a7978692ac9ef1374c88cd51ce5d513616db52/assignments/week1/local-vm.md)
+  * [x] [VM Login Screenshot](https://github.com/cloudmesh-ai-luc/AnieWall/blob/50a7978692ac9ef1374c88cd51ce5d513616db52/assignments/week1/vm-login.png)
 
 
 * [x] Assignment W2.5: Project proposal (Due Sep 10, 2026, 9am)
-  * [x] Start working towards a project proposal and fill out administrative fields and text. [https://github.com/cloudmesh-ai-luc/AnieWall/blob/50a7978692ac9ef1374c88cd51ce5d513616db52/project.md]
+  * [x] [Start working towards a project proposal and fill out administrative fields and text](https://github.com/cloudmesh-ai-luc/AnieWall/blob/50a7978692ac9ef1374c88cd51ce5d513616db52/project.md)
 
 
 # Week 1
@@ -143,7 +143,7 @@ Assignment W4.4 was also completed. The review covered Python virtual environmen
   * [x] Assignment W1.1: What hardware do you have? (Past Due)
     - Dell Latitude 7480 laptop with an Intel Core i5-7200U 2.50 GHz dual-core processor, 8 GB RAM
   * [x] Fill out the LUC Hardware Questionnaire.
-        - LUC Hardware Questionnaire: [https://docs.google.com/forms/d/e/1FAIpQLSdxxTnj8JFrrbREcM0wQ7B9nGmqpYfBPRddhKnGE7e7Dui_lA/viewform]
+        - [LUC Hardware Questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSdxxTnj8JFrrbREcM0wQ7B9nGmqpYfBPRddhKnGE7e7Dui_lA/viewform)
 
 
 * [x] Assignment W1.2: Lecture review (Past Due)
@@ -158,7 +158,7 @@ Assignment W4.4 was also completed. The review covered Python virtual environmen
   * [x] Create an account on access-ci.org.
   * [x] Create an account on chameleoncloud.org.
   * [x] Set up a GitHub account.
-  * [x] Post account information to Piazza under the accounts category. [https://piazza.com/class/mt5rkdsycb31c3/post/12]
+  * [x] [Post account information to Piazza under the accounts category](https://piazza.com/class/mt5rkdsycb31c3/post/12)
 
 
 * [x] Assignment W1.5: Work ahead: Refresh knowledge about Python and Linux (Past Due)
