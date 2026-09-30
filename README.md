@@ -10,7 +10,7 @@ Git-ID -> AnieWall
     - [x] Write a Makefile with the necessary targets to manage a single VM.
     - [x] Configure and demonstrate management of multiple machines using the configurable `NAME` variable.
     - [x] Organize local and cloud Makefiles in separate directories.
-    - [x] [W4.1 Local VM Assignment](https://github.com/cloudmesh-ai-luc/AnieWall/tree/main/assignments/week4/local)
+    - [x] [W4.1 Local VM Assignment] [https://github.com/cloudmesh-ai-luc/AnieWall/tree/main/assignments/week4/local]
 
 - [x] Assignment W4.2: VM on Jetstream 2
 
@@ -19,7 +19,7 @@ Git-ID -> AnieWall
     - [x] Write a Makefile with the necessary targets to manage a Jetstream VM.
     - [x] Configure and demonstrate management of multiple Jetstream VMs using the same Makefile.
     - [x] Check the work into the repository.
-    - [x] [W4.2 Jetstream Assignment](https://github.com/cloudmesh-ai-luc/AnieWall/tree/main/assignments/week4/jetstream)
+    - [x] [W4.2 Jetstream Assignment] [https://github.com/cloudmesh-ai-luc/AnieWall/tree/main/assignments/week4/jetstream]
 
 - [x] Assignment W4.3: VM on Chameleon Cloud
 
@@ -30,23 +30,23 @@ Git-ID -> AnieWall
     - [x] Write a Makefile with the necessary targets to manage a Chameleon VM.
     - [x] Configure and demonstrate management of multiple Chameleon VMs using the same Makefile.
     - [x] Check the work into the repository.
-    - [x] [W4.3 Chameleon Cloud Assignment](https://github.com/cloudmesh-ai-luc/AnieWall/tree/main/assignments/week4/chameleon)
+    - [x] [W4.3 Chameleon Cloud Assignment] [https://github.com/cloudmesh-ai-luc/AnieWall/tree/main/assignments/week4/chameleon]
 
-- [ ] Assignment W4.4: Review Python
+- [x] Assignment W4.4: Review Python
 
     - [x] Set up and use a Python virtual environment with `venv`.
     - [x] Ensure the OpenStack command-line tool is installed using `pipx`.
     - [x] Review the use of `pip install` and `pipx install`.
-    - [ ] Review import statements and create a program using `os.system("ls")`.
-    - [ ] Review how to create a `__main__` block.
-    - [ ] Review how to write a Python function.
-    - [ ] Review how to pass command-line arguments to a Python program using `click`.
-    - [ ] Review running shell commands from Python using `os.system()` and `subprocess.run()`.
-    - [ ] Complete the W4.4 Python review documentation.
+    - [x] Review import statements and create a program using `os.system("ls")`.
+    - [x] Review how to create a `__main__` block.
+    - [x] Review how to write a Python function.
+    - [x] Review how to pass command-line arguments to a Python program using `click`.
+    - [x] Review running shell commands from Python using `os.system()` and `subprocess.run()`.
+    - [x] Complete the W4.4 Python review documentation.
 
     Did the Python review take more than 3 hours?
 
-    - [ ] Yes
+    - [x] Yes
     - [ ] No
 
 ## Week 4 Self-Assessment
@@ -63,7 +63,7 @@ The most significant challenges involved configuring the OpenStack environments 
 
 The Week 4 work strengthened understanding of Makefile automation, OpenStack CLI usage, cloud-specific VM configuration, virtual environments, and management of multiple virtual machines across local and cloud platforms.
 
-Assignment W4.4 remains in progress. The virtual-environment, `pip`, and `pipx` portions have already been exercised during W4.2 and W4.3, while the remaining Python review topics will be completed separately.
+Assignment W4.4 tasks have been reviewed and noted. The virtual-environment, `pip`, and `pipx` portions have already been exercised during W4.2 and W4.3, while the remaining Python review topics have been completed separately.
 
 ## Week 3
 
@@ -81,7 +81,7 @@ Assignment W4.4 remains in progress. The virtual-environment, `pip`, and `pipx` 
   * [x] Make a reservation not exceeding 1 hour.
   * [x] Start up a VM using a Chameleon Cloud image for Ubuntu 24.04 using the smallest image size possible.
   * [x] Document the activity with a screenshot of the terminal (800x600).
-  * [x] [vms.md] [https://github.com/cloudmesh-ai-luc/AnieWall/blob/main/assignments/week3/vms.md]
+  * [x] [vms.md] [https://github.com/cloudmesh-ai-luc/AnieWall/blob/main/assignments/week3/vms.md] 
 
 
 * [ ] Assignment W3.3: OPTIONAL: VM on public cloud (Due Sep 17, 2026, 9am)
