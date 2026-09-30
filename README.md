@@ -1,6 +1,6 @@
 Git-ID -> AnieWall
 
-*  Accounts: (https://piazza.com/class/mt5rkdsycb31c3/post/12) 
+*  Accounts: [Piazza Account Post](https://piazza.com/class/mt5rkdsycb31c3/post/12) 
 
 ## Week 4 Tasks (Due Sep 24, 2026, 9am)
 
@@ -87,7 +87,6 @@ Assignment W4.4 was also completed. The review covered Python virtual environmen
 * [ ] Assignment W3.3: OPTIONAL: VM on public cloud (Due Sep 17, 2026, 9am)
   * [ ] Optional: Create a VM on a cloud of your choice (AWS, Azure, Google) using the free tier.
   * [ ] Document with screenshots how you created your account, ensuring sensitive information is blurred out.
-  * [ ] [VM.MD](https://github.com/cloudmesh-ai-luc/YOURREPO/blob/main/assignments/week3/vm.md)
 
 
 * [x] Assignment W3.4: Compare (Due Sep 17, 2026, 9am)
