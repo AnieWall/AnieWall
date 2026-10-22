@@ -1,0 +1,4 @@
+# Development/testing requirement used by the current repository scaffold.
+pytest>=8
+
+# Runtime service dependencies will be pinned here as implementation begins.
