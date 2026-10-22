@@ -87,7 +87,7 @@ kernel: 6.8.0-124-generic
 
 After validation, the VM, floating IP, and Blazar lease were deleted. Final checks confirmed that no test VM, floating IP, or lease remained.
 
-A student-specific Chameleon validation script was preserved in a local development commit for documentation and testing evidence. It was not submitted as a pull request because the script contains environment-specific configuration and was intended to validate the Professor Gregor's new OpenStackSDK and python-chi workflow rather than modify the shared implementation.
+A student-specific Chameleon validation script was preserved in a local development commit for documentation and testing evidence. It was not submitted as a pull request because the script contains environment-specific configuration and was intended to validate Professor Gregor's new OpenStackSDK and `python-chi` workflow rather than modify the shared implementation.
 
 ## Week 6 Self-Assessment
 

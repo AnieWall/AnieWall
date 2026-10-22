@@ -265,6 +265,7 @@ Completed work includes:
 The major remaining Week 7 provider requirement is the selected public-cloud environment.
 
 The current three-cloud selection is:
+
 | Environment | Category | Current Status |
 | --- | --- | --- |
 | Multipass | Local | Repeatable CLI and lifecycle validation completed |
@@ -276,6 +277,7 @@ Azure is therefore the next provider-validation priority.
 ### Week 7 Contribution Outcome
 
 The Week 7 shared-repository work resulted in four merged implementation or testing pull requests:
+
 - PR #55
 - PR #56
 - PR #60

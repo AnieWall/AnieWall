@@ -497,7 +497,7 @@ The implementation will be evaluated through observable system behavior.
 
 The project deliverables include:
 
-- `project.md` with architecture, implementation status, issues, and evaluation criteria;
+- `project/project.md` with architecture, implementation status, issues, and evaluation criteria;
 - architecture diagram;
 - source code for consent services and client/demo application;
 - Docker configuration;
